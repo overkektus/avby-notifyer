@@ -1,0 +1,15 @@
+{
+  "name": "avby-notifyer",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Egor Piskunov",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "fastify": "^2.2.0"
+  },
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  }
+}
